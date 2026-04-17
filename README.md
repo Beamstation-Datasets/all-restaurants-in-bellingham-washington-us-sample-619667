@@ -1,6 +1,6 @@
 # All Restaurants in Bellingham, Washington, US
 
-> Free BeamStation sample export with 37 rows and masked direct-contact fields.
+> Free BeamStation sample export with 35 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `619667` |
 | Location | Bellingham |
 | Category | Restaurants |
-| Full dataset size | 375 records |
-| Free sample size | 37 records (9.87%) |
-| Last export | 2026-04-07T10:45:43.463716+00:00 |
+| Full dataset size | 351 records |
+| Free sample size | 35 records (9.97%) |
+| Last export | 2026-04-14T10:39:26.333279+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-bellingham-washington-us-sample-619667/releases/download/sample-latest/beamstation_619667_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
