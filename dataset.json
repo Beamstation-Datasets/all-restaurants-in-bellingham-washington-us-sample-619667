@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Market-wide restaurant data for Bellingham in Pacific Northwest. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
   "config_name": "All Restaurants in Bellingham, Washington, US",
-  "export_job_id": "608a4468-280b-468c-b5b9-20fa1216ecf8",
+  "export_job_id": "77f0b0e7-8404-4225-9c20-764bc2b134f9",
   "github_org": "Beamstation-Datasets",
   "id_short": 619667,
   "location_name": "Bellingham",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-bellingham-washington-us-sample-619667",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/619667/beamstation_619667_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_pct": 9.84,
-  "sample_records": 24,
-  "sample_sha256": "b93a96a8dfffcc8d3622b61a1c266dc7a85b70f4a1bf3d8f760e08b58669c892",
-  "sample_size_bytes": 106175,
-  "total_records": 244,
-  "updated_at": "2026-04-21T10:59:26.788869+00:00"
+  "sample_records": 37,
+  "sample_sha256": "a62c6af66aca51d3a9eb243e3496df4405e554b71bd68f4fb2b171ab57bf28cc",
+  "sample_size_bytes": 127375,
+  "total_records": 376,
+  "updated_at": "2026-04-28T11:28:42.970554+00:00"
 }
