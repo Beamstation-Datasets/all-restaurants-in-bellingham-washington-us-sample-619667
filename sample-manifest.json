@@ -1,12 +1,12 @@
 {
-  "export_job_id": "77f0b0e7-8404-4225-9c20-764bc2b134f9",
+  "export_job_id": "057bf811-d47c-44a6-95b7-96b68f5682d3",
   "id_short": 619667,
-  "published_at": "2026-04-28T19:54:11Z",
+  "published_at": "2026-05-05T19:14:40Z",
   "repo_name": "all-restaurants-in-bellingham-washington-us-sample-619667",
   "sample_asset_name": "beamstation_619667_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/619667/beamstation_619667_restaurants-us-wa_SAMPLE_DIST.csv",
-  "sample_records": 37,
-  "sample_sha256": "a62c6af66aca51d3a9eb243e3496df4405e554b71bd68f4fb2b171ab57bf28cc",
-  "sample_size_bytes": 127375,
-  "total_records": 376
+  "sample_records": 39,
+  "sample_sha256": "1afdb44ef37ce2e7429b989e4984e21d25523261cece252789bc66c3270d3411",
+  "sample_size_bytes": 156039,
+  "total_records": 392
 }
